@@ -124,12 +124,6 @@ The website includes:
 
 ---
 
-## 🎥 Demo
-
-👉 Add your YouTube demo link here
-
----
-
 ## 🧠 Technologies Used
 
 * Python
