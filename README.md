@@ -1,4 +1,4 @@
-# 🚀 AI Agent CLI Tool — Scaler Website Clone
+# 🚀 AI Agent CLI Tool 
 
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue?style=flat-square&logo=python)](https://www.python.org/)
 [![Groq API](https://img.shields.io/badge/Powered%20by-Groq-orange?style=flat-square)](https://groq.com/)
